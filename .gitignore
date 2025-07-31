@@ -1,0 +1,41 @@
+# ----------------------------
+# Node.js / Next.js Frontend
+# ----------------------------
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+frontend/.DS_Store
+
+# ----------------------------
+# Laravel Backend
+# ----------------------------
+backend/vendor/
+backend/storage/*.key
+backend/storage/*.log
+backend/.env
+backend/.env.*
+backend/.DS_Store
+
+# ----------------------------
+# Flutter Mobile App
+# ----------------------------
+mobile/.dart_tool/
+mobile/.idea/
+mobile/.packages
+mobile/.flutter-plugins
+mobile/.flutter-plugins-dependencies
+mobile/build/
+mobile/pubspec.lock
+mobile/.env
+mobile/.DS_Store
+
+# ----------------------------
+# General
+# ----------------------------
+*.log
+.env
+.DS_Store
+Thumbs.db
