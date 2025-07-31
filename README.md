@@ -1,16 +1,18 @@
-## Hi there 👋
+# Faveremit - Crypto Integration
 
-<!--
-**faveremit/faveremit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repo contains the crypto trading feature for the Faveremit project.
 
-Here are some ideas to get you started:
+## Features
+- Buy/sell crypto
+- Wallet integration
+- Transfer, swap, and transaction history
+- Built with [Laravel / Node.js / Vite etc.]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Setup
+1. Clone the repo
+2. Run `npm install` / `composer install`
+3. Copy `.env.example` to `.env` and set up environment variables
+4. Run `npm run dev` or `php artisan serve`
+
+## Author
+Phirstlady Dev Team – [faveremit.com](https://faveremit.com)
